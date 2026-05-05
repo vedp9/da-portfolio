@@ -10,7 +10,7 @@ export default function About() {
           <User size={32} className="text-accent" />
           About Me
         </h2>
-        
+
         <div className="about-content">
           <div className="about-photo-wrapper">
             {/* 
@@ -18,21 +18,21 @@ export default function About() {
               Once you have the image file, place it in src/assets/ and update the src path here.
               The CSS filters will automatically enhance it to match the website's tone and palette.
             */}
-            <img 
-              src="/src/assets/profile.jpg" 
-              alt="Veda Praneeth" 
+            <img
+              src="/src/assets/profile.jpg"
+              alt="Veda Praneeth"
               className="about-photo"
               onError={(e) => { e.target.style.opacity = 0; }}
             />
           </div>
-          
+
           <div className="about-info">
             <div className="about-text">
               <p>
-                I am Veda Praneeth, an aspiring Data Analyst focused on marketing analytics. I work with SQL, Python, Excel, Power BI, Tableau, and Google Analytics to analyze data, build reports, and communicate findings clearly. 
+                I am Veda Praneeth, an aspiring Data Analyst focused on marketing analytics. I work with SQL, Python, Excel, Power BI, Tableau, and Google Analytics to analyze data, build reports, and communicate findings clearly.
               </p>
               <p>
-                My key areas of interest include campaign performance, customer segmentation, churn analysis, funnel analysis, ROI, and A/B testing. 
+                My key areas of interest include campaign performance, customer segmentation, churn analysis, funnel analysis, ROI, and A/B testing.
               </p>
               <p>
                 I am currently looking for job opportunities where I can grow as a data professional and contribute to data-driven marketing strategies.
