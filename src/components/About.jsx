@@ -1,6 +1,7 @@
 import React from 'react';
 import { User } from 'lucide-react';
 import './About.css';
+import profileImg from '../assets/profile.jpg';
 
 export default function About() {
   return (
@@ -19,7 +20,7 @@ export default function About() {
               The CSS filters will automatically enhance it to match the website's tone and palette.
             */}
             <img
-              src="/src/assets/profile.jpg"
+              src={profileImg}
               alt="Veda Praneeth"
               className="about-photo"
               onError={(e) => { e.target.style.opacity = 0; }}
