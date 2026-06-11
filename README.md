@@ -81,7 +81,7 @@ When you are ready to make your website live for everyone to see:
 ## 📬 Connect with Me
 - **LinkedIn:** [linkedin.com/in/vedapraneeth](https://www.linkedin.com/in/vedapraneeth/)
 - **Email:** vedapraneeth9@gmail.com
-- **GitHub:** [github.com/vedap24](https://github.com/vedap24)
+- **GitHub:** [github.com/vedap24](https://github.com/vedp9)
 
 ---
 *This portfolio is open-source under the MIT License. Feel free to fork and use it as a template for your own data analytics portfolio!*
