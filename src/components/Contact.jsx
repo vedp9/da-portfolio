@@ -27,7 +27,7 @@ export default function Contact() {
                 </div>
               </a>
               
-              <a href="https://github.com/vedap24" target="_blank" rel="noopener noreferrer" className="contact-card">
+              <a href="https://github.com/vedp9" target="_blank" rel="noopener noreferrer" className="contact-card">
                 <div className="icon-wrapper">
                   <GitBranch size={24} className="text-accent" />
                 </div>
