@@ -33,7 +33,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <h3>GitHub</h3>
-                  <p>github.com/vedap24</p>
+                  <p>github.com/vedp9</p>
                 </div>
               </a>
             </div>
